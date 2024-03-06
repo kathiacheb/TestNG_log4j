@@ -1,0 +1,32 @@
+22:04:08.408 [main] INFO  -  on start listenet, extent configuration
+22:04:08.830 [main] INFO  - launched browser
+22:04:10.482 [main] INFO  - maximize window
+22:04:12.494 [main] INFO  - context starts, now execution:f
+22:04:12.494 [main] INFO  - test f
+22:04:12.620 [main] INFO  - context starts, now execution:login
+22:04:12.623 [main] INFO  - login execution startes
+22:04:12.732 [main] INFO  - context starts, now execution:verify_Homepage
+22:04:12.733 [main] INFO  - maximizing browser
+22:04:15.853 [main] INFO  - getting tilte
+22:04:17.052 [main] INFO  - title is collected
+22:04:17.068 [main] INFO  -  title verifyed is failes
+22:04:17.854 [main] INFO  - window closed
+22:04:20.441 [main] INFO  - on finish listener, extent configuration done
+11:43:07.405 [main] INFO  - launched browser
+11:43:09.472 [main] INFO  - maximize window
+11:43:11.496 [main] INFO  - test f
+11:43:11.586 [main] INFO  - login execution startes
+11:43:11.591 [main] INFO  - maximizing browser
+11:43:15.640 [main] INFO  - getting tilte
+11:43:15.652 [main] INFO  - title is collected
+11:43:15.680 [main] INFO  -  title verifyed is failes
+11:43:17.133 [main] INFO  - window closed
+11:44:45.562 [main] INFO  - launched browser
+11:44:47.102 [main] INFO  - maximize window
+11:44:49.116 [main] INFO  - test f
+11:44:49.125 [main] INFO  - login execution startes
+11:44:49.127 [main] INFO  - maximizing browser
+11:44:52.620 [main] INFO  - getting tilte
+11:44:52.647 [main] INFO  - title is collected
+11:44:52.673 [main] INFO  -  title verifyed is failes
+11:44:53.974 [main] INFO  - window closed
