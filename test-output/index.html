@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>D:\eclipse workspaces\TestNG_log4j\Runtime\Executionprofile\extent.xml</span>
+                    <span>D:\eclipse workspaces\TestNG_log4j\Runtime\Executionprofile\loggerxml.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -160,15 +160,18 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">D:\eclipse workspaces\TestNG_log4j\Runtime\Executionprofile\extent.xml</span>
+            <span class="header-content">D:\eclipse workspaces\TestNG_log4j\Runtime\Executionprofile\loggerxml.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
 &lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
 &lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
 &lt;suite name=&quot;Suite&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;Listenerpack.Listener&quot;/&gt;
+  &lt;/listeners&gt;
   &lt;test thread-count=&quot;5&quot; name=&quot;Test&quot;&gt;
-    &lt;parameter name=&quot;website&quot; value=&quot;https://www.myntra.com/&quot;/&gt;
+    &lt;parameter name=&quot;website&quot; value=&quot;https://myntra.com&quot;/&gt;
     &lt;parameter name=&quot;browser&quot; value=&quot;chrome&quot;/&gt;
     &lt;classes&gt;
       &lt;class name=&quot;Testing_log.NewTest_logger&quot;/&gt;
@@ -215,20 +218,20 @@ data.addRows(3);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'verify_Homepage')
 data.setCell(0, 2, 'Testing_log.NewTest_logger')
-data.setCell(0, 3, 5539);
+data.setCell(0, 3, 4498);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'login')
 data.setCell(1, 2, 'Testing_log.NewTest_logger')
-data.setCell(1, 3, 88);
+data.setCell(1, 3, 9);
 data.setCell(2, 0, 2)
 data.setCell(2, 1, 'f')
 data.setCell(2, 2, 'Testing_log.NewTest_logger')
-data.setCell(2, 3, 6);
+data.setCell(2, 3, 8);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 5 seconds</span>
+              <span class="suite-total-time">Total running time: 4 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -260,28 +263,28 @@ return data;
                 <span class="method-start">0 ms</span>
               </div> <!-- configuration-test before -->
               <div class="configuration-class before">
-                <span class="method-name">beforeClass(chrome, https://www.myntra.com/)</span>
-                <span class="method-start">137 ms</span>
+                <span class="method-name">beforeClass(chrome, https://myntra.com)</span>
+                <span class="method-start">123 ms</span>
               </div> <!-- configuration-class before -->
               <div class="test-method">
                 <span class="method-name">f</span>
-                <span class="method-start">5964 ms</span>
+                <span class="method-start">4082 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">login</span>
-                <span class="method-start">5973 ms</span>
+                <span class="method-start">4215 ms</span>
               </div> <!-- test-method -->
               <div class="test-method">
                 <span class="method-name">verify_Homepage</span>
-                <span class="method-start">6064 ms</span>
+                <span class="method-start">4360 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-class after">
                 <span class="method-name">afterClass</span>
-                <span class="method-start">11605 ms</span>
+                <span class="method-start">9664 ms</span>
               </div> <!-- configuration-class after -->
               <div class="configuration-test after">
                 <span class="method-name">afterTest</span>
-                <span class="method-start">11855 ms</span>
+                <span class="method-start">10046 ms</span>
               </div> <!-- configuration-test after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

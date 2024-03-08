@@ -6,10 +6,9 @@
 	</listeners>
 	
   <test thread-count="5" name="Test">
-	  <parameter name="browser" value="chrome"></parameter>
-	  <parameter name="website" value="https://myntra.com"></parameter>
-
-
+	  <parameter name="browser" value="${BROWSER}"></parameter>
+	  <parameter name="website" value="${URL}"></parameter>
+	  
     <classes>
       <class name="Testing_log.NewTest_logger"/>
     </classes>

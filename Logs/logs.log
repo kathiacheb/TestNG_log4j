@@ -30,3 +30,54 @@
 11:44:52.647 [main] INFO  - title is collected
 11:44:52.673 [main] INFO  -  title verifyed is failes
 11:44:53.974 [main] INFO  - window closed
+16:25:12.971 [main] INFO  -  on start listenet, extent configuration
+16:25:12.971 [main] INFO  -  on start listenet, extent configuration
+16:25:15.786 [main] INFO  -  on start listenet, extent configuration
+16:25:16.806 [main] INFO  - launched browser
+16:25:18.702 [main] INFO  - launched browser
+16:25:19.007 [main] INFO  - launched browser
+16:25:19.338 [main] INFO  - maximize window
+16:25:20.401 [main] INFO  - maximize window
+16:25:20.590 [main] INFO  - maximize window
+16:25:21.355 [main] INFO  - context starts, now execution:f
+16:25:21.355 [main] INFO  - test f
+16:25:21.501 [main] INFO  - context starts, now execution:login
+16:25:21.505 [main] INFO  - login execution startes
+16:25:21.620 [main] INFO  - context starts, now execution:verify_Homepage
+16:25:21.621 [main] INFO  - maximizing browser
+16:25:22.414 [main] INFO  - context starts, now execution:f
+16:25:22.415 [main] INFO  - test f
+16:25:22.615 [main] INFO  - context starts, now execution:f
+16:25:22.615 [main] INFO  - test f
+16:25:22.654 [main] INFO  - context starts, now execution:login
+16:25:22.666 [main] INFO  - login execution startes
+16:25:22.821 [main] INFO  - context starts, now execution:login
+16:25:22.827 [main] INFO  - login execution startes
+16:25:22.846 [main] INFO  - context starts, now execution:verify_Homepage
+16:25:22.847 [main] INFO  - maximizing browser
+16:25:22.954 [main] INFO  - context starts, now execution:verify_Homepage
+16:25:22.955 [main] INFO  - maximizing browser
+16:25:27.418 [main] INFO  - getting tilte
+16:25:27.433 [main] INFO  - title is collected
+16:25:27.446 [main] INFO  -  title verifyed is failes
+16:25:27.650 [main] INFO  - getting tilte
+16:25:27.661 [main] INFO  - title is collected
+16:25:27.669 [main] INFO  -  title verifyed is failes
+16:25:28.178 [main] INFO  - window closed
+16:25:28.240 [main] INFO  - getting tilte
+16:25:28.449 [main] INFO  - title is collected
+16:25:28.456 [main] INFO  -  title verifyed is failes
+16:25:28.622 [main] INFO  - window closed
+16:25:29.359 [main] INFO  - on finish listener, extent configuration done
+16:25:29.372 [main] INFO  - window closed
+16:25:30.619 [main] INFO  - on finish listener, extent configuration done
+16:25:32.052 [main] INFO  - on finish listener, extent configuration done
+16:25:50.943 [main] INFO  - launched browser
+16:25:52.485 [main] INFO  - maximize window
+16:25:54.508 [main] INFO  - test f
+16:25:54.642 [main] INFO  - login execution startes
+16:25:54.781 [main] INFO  - maximizing browser
+16:25:58.573 [main] INFO  - getting tilte
+16:25:58.581 [main] INFO  - title is collected
+16:25:58.598 [main] INFO  -  title verifyed is failes
+16:26:00.091 [main] INFO  - window closed
