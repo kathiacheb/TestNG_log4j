@@ -29,7 +29,7 @@ public class Commons {
      public Logger log= LogManager.getLogger(Commons.class);
 
      public ExtentReports extent = new ExtentReports();
-	 public  ExtentSparkReporter spark = new ExtentSparkReporter("Results/" +System.currentTimeMillis()+"kathia.html");
+	 public  ExtentSparkReporter spark = new ExtentSparkReporter("Results/jenkins_extentReport.html");
 	 public ExtentTest test;
 
 
